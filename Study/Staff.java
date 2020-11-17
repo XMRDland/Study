@@ -6,5 +6,4 @@ public interface Staff {
     default void shareInfo() {
         System.out.println("Полезная информация здесь: habr.com");
     }
-
 }
