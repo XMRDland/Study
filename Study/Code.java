@@ -7,8 +7,4 @@ public class Code extends Task {
         super(taskNum, taskText);
         this.code = "Some code";
     }
-/*    public Code(int taskNum, String taskText, String code) {
-        super(taskNum, taskText);
-        this.code = code;
-    }*/
 }
